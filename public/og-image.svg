@@ -1,0 +1,21 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#2563EB"/>
+  <path d="M200 315C200 290.2 220.2 270 245 270H955C979.8 270 1000 290.2 1000 315C1000 339.8 979.8 360 955 360H245C220.2 360 200 339.8 200 315Z" fill="#DBEAFE"/>
+  <path d="M350 200C350 175.2 370.2 155 395 155H805C829.8 155 850 175.2 850 200V430C850 454.8 829.8 475 805 475H395C370.2 475 350 454.8 350 430V200Z" fill="#DBEAFE"/>
+  
+  <!-- 강아지 아이콘 -->
+  <path d="M440 265C440 243.4 457.4 226 479 226H512C533.6 226 551 243.4 551 265V298C551 319.6 533.6 337 512 337H479C457.4 337 440 319.6 440 298V265Z" fill="#2563EB"/>
+  <circle cx="478" cy="264" r="10" fill="#DBEAFE"/>
+  <circle cx="513" cy="264" r="10" fill="#DBEAFE"/>
+  <path d="M479 300H512C512 310 502 318 496 318C490 318 479 310 479 300Z" fill="#DBEAFE"/>
+  
+  <!-- 고양이 아이콘 -->
+  <path d="M649 265C649 243.4 666.4 226 688 226H721C742.6 226 760 243.4 760 265V298C760 319.6 742.6 337 721 337H688C666.4 337 649 319.6 649 298V265Z" fill="#2563EB"/>
+  <path d="M688 264L678 254V244L688 254L698 244V254L688 264Z" fill="#DBEAFE"/>
+  <path d="M721 264L711 254V244L721 254L731 244V254L721 264Z" fill="#DBEAFE"/>
+  <path d="M688 300H721C721 310 711 318 705 318C699 318 688 310 688 300Z" fill="#DBEAFE"/>
+  
+  <text x="600" y="400" font-family="Arial, sans-serif" font-size="40" text-anchor="middle" fill="#2563EB">반려동물 질병 진단 AI</text>
+  <text x="600" y="100" font-family="Arial, sans-serif" font-size="60" font-weight="bold" text-anchor="middle" fill="white">댕냥닥터</text>
+  <text x="600" y="520" font-family="Arial, sans-serif" font-size="30" text-anchor="middle" fill="white">Google Gemini 1.5 기반 AI로 건강 상태를 분석합니다</text>
+</svg> 
